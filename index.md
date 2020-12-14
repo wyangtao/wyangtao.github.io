@@ -51,8 +51,6 @@ for Image Dark Data[J]. ACM Transactions on Data Science (<strong>Corresponding 
 
 <li>Xiaocui Li, <strong>Yangtao Wang</strong>, Xinyu Zhang, Ke Zhou* and Chunhua Li. A More Secure Spatial Decompositions Algorithm via Indefeasible Laplace Noise in Differential Privacy[C]. ADMA 2018 (Best Student Paper Runner-up). <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-05090-0_19.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>Xiaocui Li, <strong>Yangtao Wang</strong>, Xinyu Zhang, Ke Zhou* and Chunhua Li. A More Secure Spatial Decompositions Algorithm via Indefeasible Laplace Noise in Differential Privacy[C]. ADMA 2018 (Best Student Paper Runner-up). <a href="https://github.com/wyangtao/wyangtao.github.io/blob/main/papers/ADMA2018.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
-
 </ol>
 
 - ***Under review***
