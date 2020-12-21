@@ -11,7 +11,7 @@
 ## PUBLICATIONS
 - ***Accepted***
 <ol>
- <li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised Deep Hashing with Node Representation for Image Retrieval[J]. Pattern Recognition (CCF B, JCR Q1).<a href="https://github.com/wyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li> 
+ <li><strong>Yangtao Wang</strong>, Jingkuan Song, Ke Zhou and Yu Liu*. Unsupervised Deep Hashing with Node Representation for Image Retrieval[J]. Pattern Recognition (CCF B, JCR Q1).<a href="https://www.sciencedirect.com/science/article/pii/S0031320320305884?dgcid=coauthor"><strong><font color="#267cb9">pdf</font></strong></a></li> 
  
  <li>Yu Liu, <strong>Yangtao Wang*</strong>, Lianli Gao, Chan Guo, Yanzhao Xie and Zhili Xiao. Deep Hash Based Relevance-Aware Data Quality Assessment
 for Image Dark Data[J]. ACM Transactions on Data Science (<strong>Corresponding author</strong>).<a href="https://github.com/wyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
@@ -34,7 +34,7 @@ for Image Dark Data[J]. ACM Transactions on Data Science (<strong>Corresponding 
 
 <li>Xiaocui Li, <strong>Yangtao Wang</strong>, Jingkuan Song, Yu Liu, Xinyu Zhang, Ke Zhou and Chunhua Li*. A Low Cost and Un-Cancelled Laplace Noise Based Differential Privacy Algorithm for Spatial Decompositions[J]. World Wide Web (CCF B, JCR Q1). <a href="https://link.springer.com/content/pdf/10.1007/s11280-019-00769-8.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
-<li>Yu Liu, <strong>Yangtao Wang</strong>, Ke Zhou*, Yujuan Yang and Yifei Liu. Semantic-aware Data Quality Assessment for Image Big Data[J]. Future Generation Computer Systems (CCF C, JCR Q1). <a href="https://www.sciencedirect.com/science/article/pii/S0167739X19302304"><strong><font color="#267cb9">pdf</font></strong></a></li>
+<li>Yu Liu, <strong>Yangtao Wang</strong>, Ke Zhou*, Yujuan Yang and Yifei Liu. Semantic-aware Data Quality Assessment for Image Big Data[J]. Future Generation Computer Systems (CCF C, JCR Q1). <a href="https://github.com/wyangtao/wangyangtao.github.io/blob/master/non.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
 
 
 <li><strong>Yangtao Wang</strong>, Yu Liu, Yifei Liu, Ke Zhou*, Yujuan Yang, Jiangfeng Zeng, Xiaodong Xu and Zhili Xiao. Analysis and Management to Hash-Based Graph and Rank[C]. APWeb-WAIM 2019 (CCF C). <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-26072-9_22.pdf"><strong><font color="#267cb9">pdf</font></strong></a></li>
