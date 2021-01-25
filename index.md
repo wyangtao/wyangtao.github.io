@@ -64,6 +64,8 @@ for Image Dark Data[J]. ACM Transactions on Data Science (<strong>Corresponding 
 
 <li><strong>Yangtao Wang</strong>, Yanzhao Xie*, Ming Yang, Zhixiao Wang and Xiaocui Li. G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition[J]. Knowledge-Based Systems (JCR Q1).</li>
 
+<li><strong>Yangtao Wang</strong>, Yanzhao Xie, Yu Liu* and Xiaocui Li. Cross-modal Fusion for Multi-label Image Classification with Attention Mechanism[J]. TKDD (CCF B).</li>
+
 </ol>
 
 ## CONTACT ME
